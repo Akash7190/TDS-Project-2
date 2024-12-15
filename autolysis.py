@@ -6,6 +6,7 @@
 #   "matplotlib",
 #   "seaborn",
 #   "requests",
+#   "ipykernel",
 #   "python-dotenv",
 # ]
 # ///
