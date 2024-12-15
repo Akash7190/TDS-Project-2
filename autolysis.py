@@ -2,7 +2,6 @@
 # requires-python = ">=3.11"
 # dependencies = [
 #   "httpx",
-#   "json",
 #   "pandas",
 #   "matplotlib",
 #   "seaborn",
